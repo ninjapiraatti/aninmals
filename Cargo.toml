@@ -3,6 +3,7 @@ name = "aninmals"
 version = "0.1.0"
 edition = "2018"
 description = "Generate aninmals!"
+repository = "https://github.com/ninjapiraatti/aninmals"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
