@@ -1,6 +1,6 @@
 [package]
 name = "aninmals"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2018"
 description = "Generate aninmals!"
 repository = "https://github.com/ninjapiraatti/aninmals"
@@ -9,3 +9,4 @@ license = "MIT"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+rand = "0.5.0"
