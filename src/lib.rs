@@ -7,7 +7,7 @@ pub struct Aninmal {
     toesywoesies: i32,
 }
 
-const ANINMALS: [Aninmal; 21] = [
+const ANINMALS: [Aninmal; 26] = [
     Aninmal { name: "Disco turkey", sound: "Cluck!", toesywoesies: 8 },
     Aninmal { name: "Birb", sound: "Tweet!", toesywoesies: 8 },
     Aninmal { name: "Formal chikcen", sound: "Päkäkäkää!", toesywoesies: 8 },
@@ -29,6 +29,11 @@ const ANINMALS: [Aninmal; 21] = [
     Aninmal { name: "Noodle bear", sound: "Krit krit.", toesywoesies: 20 },
     Aninmal { name: "Booblesnoot", sound: "Om nom.", toesywoesies: 20 },
     Aninmal { name: "Murder torpedo", sound: "Redrum!", toesywoesies: 0 },
+    Aninmal { name: "Hop pocket", sound: "Bbrb", toesywoesies: 10 },
+    Aninmal { name: "Forest corgi", sound: "Skree!", toesywoesies: 20 },
+    Aninmal { name: "Trash panda", sound: "Kwik!", toesywoesies: 20 },
+    Aninmal { name: "Patience monkey", sound: "..", toesywoesies: 20 },
+    Aninmal { name: "Death cuddle", sound: "Raaawwr!", toesywoesies: 20 },
 ];
 
 pub trait Noisemaker {
